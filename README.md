@@ -16,8 +16,7 @@ Ferramentas que já utilizei ou estou em processo de aprendizado!
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvalheira&theme=dracula&include_all_commits=true&count_private=true&layout=compact"
-           alt="Github Stats" width="300" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcarvalheira&theme=dracula&layout=compact"alt="Github Stats">
     </td>
   </tr>
 </table>
